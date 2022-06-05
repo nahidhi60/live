@@ -544,7 +544,7 @@ projects .all-projects .project-img img{
 #about .col-left{
     width: 600px;
     height: 400px;
-    padding-left: 60px;
+    padding-left: 61px;
     flex-basis: 40%;
 }
 }
